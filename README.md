@@ -1,5 +1,5 @@
 
-# Kaggle S3E26 - 🩺 Siroz Hastalığı Sağkalım Tahmin Sistemi
+# Kaggle S3E26 - 🩺 Siroz Hastalığı Tahmin Sistemi
 
 Bu proje, karaciğer sirozu olan hastaların klinik ve laboratuvar parametrelerini analiz ederek, hastanın gelecekteki durumunu (Yaşıyor, Nakil, Vefat) tahmin eden bir makine öğrenmesi uygulamasıdır.
 
